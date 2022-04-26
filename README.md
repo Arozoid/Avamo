@@ -1,4 +1,6 @@
-# Avamo <img src>
+# Avamo 
+
+<img src="github.com/Arozoid/Avamo/blob/main/Avamo.png">
 
 **Avamo** is an organization with hope of giving good software to the world.
 We make side-projects such as **BettrPy** for the world with quality of life changes.
