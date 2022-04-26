@@ -1,6 +1,6 @@
 # Avamo 
 
-<img src="Avamo.png" width="96" height="96">
+<img src="avamo_png.png" width="96" height="96">
 
 **Avamo** is an organization with hope of giving good software to the world.
 We make side-projects such as **BettrPy** for the world with quality of life changes.
