@@ -1,4 +1,4 @@
-# Avamo
+# Avamo <img src>
 
 **Avamo** is an organization with hope of giving good software to the world.
 We make side-projects such as **BettrPy** for the world with quality of life changes.
