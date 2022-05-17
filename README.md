@@ -1,8 +1,8 @@
-# Avamo
+# avamo
 
 <img src="avamo_png.png" alt="" width="96" height="96">
 
-**Avamo** is an organization with hope of giving good software to the world.  
+**avamo** is an organization with hope of giving good software to the world.  
 We always ensure that our users are having the best experience as it's  
 good to have users able to also add what **they** want.
 
